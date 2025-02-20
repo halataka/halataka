@@ -1,5 +1,7 @@
 # Hello, I'm Hala!
-<a href="www.linkedin.com/in/hala-takabayashi-542678312"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hala-takabayashi-542678312" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat" alt="LinkedIn Badge">
+</a>
 
 
 
@@ -22,8 +24,6 @@ Aspiring cybersecurity professional seeking an internship or entry-level positio
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
