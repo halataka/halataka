@@ -21,8 +21,7 @@ Aspiring cybersecurity professional seeking an internship or entry-level positio
 | Designed and implemented network segmentation in AWS VPC using subnets, route tables, and security groups| <a href="https://github.com/halataka/Amazon-Virtual-Private-Cloud">Amazon VPC</a>|
 | Implemented security monitoring and log analysis in a Windows environment to detect and respond to potential threats       | <a href="https://github.com/halataka/Windows-Security-Enhancements">Windows Security Enhancements</a>|
 |  Configured and analyzed Linux system logs for security monitoring and intrusion detection in a SOC environment   | <a href="https://github.com/halataka/Linux-Security-Enhancements">Linux Security Enhancements</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 
 ### Network
