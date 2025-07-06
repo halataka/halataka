@@ -39,6 +39,7 @@ Aspiring cybersecurity professional seeking an internship or entry-level positio
 
 <div>
 <img src="https://img.shields.io/badge/NVIDIA-brightgreen?style=for-the-badge&logo=nvidia" />
+<img src="https://img.shields.io/badge/CompTIA_Security+-red?style=for-the-badge&logo=comptia&logoColor=white" />
 
 </div>
 
