@@ -17,7 +17,7 @@ Aspiring cybersecurity professional seeking an internship or entry-level positio
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Configured IPSec VPN with QoS to prioritize network traffic and optimize performance         | <a href="https://github.com/halataka/IPsec-Site-to-Site-VPN-and-QoS">IPsec Site-To-Site VPN & QoS </a>|
+| Configured IPSec VPN with QoS to prioritize network traffic and optimize performance         | <a href="https://github.com/halataka/IPsec-Site-to-Site-VPN-and-QoS">IPsec Site-To-Site VPN & QoS (Cisco) </a>|
 | Designed and implemented network segmentation in AWS VPC using subnets, route tables, and security groups| <a href="https://github.com/halataka/Amazon-Virtual-Private-Cloud">Amazon VPC</a>|
 | Implemented security monitoring and log analysis in a Windows environment to detect and respond to potential threats       | <a href="https://github.com/halataka/Windows-Security-Enhancements">Windows Security Enhancements</a>|
 |  Configured High Availability (HA) in an Active/Passive deployment between two Palo Alto firewalls to ensure seamless failover, configuration synchronization, and uninterrupted network security.   | <a href="https://github.com/halataka/Palo-Alto-HA-/blob/main/README.md">Palo Alto HA </a>|
