@@ -47,4 +47,4 @@ Aspiring cybersecurity professional seeking an internship or entry-level positio
 - <a href="https://github.com/halataka/IPsec-Site-to-Site-VPN-and-QoS">IPsec Site-To-Site VPN & QoS </a>
 - <a href="https://github.com/halataka/Amazon-Virtual-Private-Cloud">Amazon VPC</a>
 - <a href="https://github.com/halataka/Windows-Security-Enhancements">Windows Security Enhancements</a>
-- <a href="https://github.com/halataka/Linux-Security-Enhancements">Linux Security Enhancements</a>
+- <a href="https://github.com/halataka/Palo-Alto-HA-/blob/main/README.md">Palo Alto High Availability</a>
