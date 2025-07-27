@@ -5,7 +5,7 @@
 
 
 
-I’m a senior at ECPI University, working toward my Bachelor’s in Cyber and Information Security Technology. I am passionate about exploring the ever-evolving field of cybersecurity, solving complex challenges, and expanding my technical skills.
+
 
 ## Objective
 
