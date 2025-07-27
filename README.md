@@ -4,7 +4,7 @@
 </a>
 
 
-
+Junior Network & Security Engineer | CompTIA Security+ Certified | Cybersecurity Professional
 
 
 ## Objective
