@@ -21,7 +21,7 @@ Aspiring cybersecurity professional seeking an internship or entry-level positio
 |  Configured Cisco enterprise network with dynamic routing, VLAN segmentation, and ASA 5506-X firewall to secure interdepartmental traffic and enable outbound connectivity        |<a href="https://github.com/halataka/Cisco-Enterprise-Network-Design">Cisco Enterprise Network Design </a>|
 | Designed and implemented network segmentation in AWS VPC using subnets, route tables, and security groups| <a href="https://github.com/halataka/Amazon-Virtual-Private-Cloud">Amazon VPC</a>|
 | Implemented security monitoring and log analysis in a Windows environment to detect and respond to potential threats       | <a href="https://github.com/halataka/Windows-Security-Enhancements">Windows Security Enhancements</a>|
-|  Configured High Availability (HA) in an Active/Passive deployment between two Palo Alto firewalls to ensure seamless failover, configuration synchronization, and uninterrupted network security.   | <a href="https://github.com/halataka/Palo-Alto-HA-/blob/main/README.md">Palo Alto HA </a>|
+|  Configured High Availability (HA) in an Active/Passive deployment between two Palo Alto firewalls to ensure seamless failover, configuration synchronization, and uninterrupted network security   | <a href="https://github.com/halataka/Palo-Alto-HA-/blob/main/README.md">Palo Alto HA </a>|
 
 
 
